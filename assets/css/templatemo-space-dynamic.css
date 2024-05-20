@@ -1400,6 +1400,9 @@ form#contact button:hover {
   background-color: #fe3f40;
 }
 
+.shipping{
+    margin-top: -182px;width: 120px;height: auto;margin-left: 50px;
+}
 
 /* 
 ---------------------------------------------
@@ -1561,4 +1564,7 @@ responsive
   .phone-info h4 span i {
     margin-left: 0px;
   }
+    .shipping{
+        margin-top: -65px;width: 120px;height: auto;margin-left: 50px;
+    }
 }
